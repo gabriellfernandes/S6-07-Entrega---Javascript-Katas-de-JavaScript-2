@@ -1,0 +1,1 @@
+# S6-07-Entrega---Javascript-Katas-de-JavaScript-2
