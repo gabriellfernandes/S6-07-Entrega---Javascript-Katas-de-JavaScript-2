@@ -1,0 +1,7 @@
+fat,i,i <= x,return
+1,1,true,-
+1,2,true,-
+2,3,true,-
+6,4,true,-
+24,5,true,-
+120,6,false,120

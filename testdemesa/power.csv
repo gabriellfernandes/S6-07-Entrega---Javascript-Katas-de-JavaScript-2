@@ -1,0 +1,6 @@
+pow;i;i < b;return
+1;0;true;-
+3;1;true;-
+9;2;true;-
+27;3;true;-
+81;4;false;81
